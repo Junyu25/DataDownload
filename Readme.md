@@ -6,5 +6,5 @@ Aspera: `conda install -c hcc aspera-cli`
 enaBrowserTools: `conda install -c bioconda enabrowsertools`
 
 ## Quick Preview
-`enaDataGet -f fastq ACCESSION`   
-For more detail, Please see the [Usage Menu](https://github.com/Junyu25/DataDownload/blob/master/Data-Download.ipynb)
+`enaDataGet -f fastq -a ACCESSION`   
+For more detail, Please see the [Usage Manual](https://github.com/Junyu25/DataDownload/blob/master/Data-Download.ipynb)
